@@ -1,0 +1,4 @@
+version: "3.9"
+services:
+  toyota:
+    image: "docker-registry.rahti.csc.fi/student480/toyota-task-one:1.0"
